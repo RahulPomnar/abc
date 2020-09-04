@@ -1,5 +1,5 @@
 function Signup(){
-  window.location = "brands.html";
+  window.location = "signupthanks.html";
 }
 
 
