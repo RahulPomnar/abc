@@ -1,9 +1,6 @@
 function Signup(){
-  window.location = "signupthanks.html";
+  window.location ="signupthanks.html";
 }
-
-
-
 
 var maxTry= 3;
 function validate(){
