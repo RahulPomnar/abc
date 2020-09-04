@@ -1,3 +1,10 @@
+function Signup(){
+  window.location = "brands.html";
+}
+
+
+
+
 var maxTry= 3;
 function validate(){
 var username = document.getElementById("username").value;
