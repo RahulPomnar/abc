@@ -22,6 +22,14 @@
 
 h1{
 	padding-top:50px;
+  color: #000000
+}
+h2{
+  color:#e60000;
+}
+h3{
+  font-size: 30px;
+  color:	#0040ff;
 }
 /*make fa-fa hover*/
 .fa:hover {
@@ -73,6 +81,7 @@ li a:hover:not(.current) {
 .h2{
 	font-family:Century   Gothic;
 	font-size:20px;
+
 }
 
 .h4{
@@ -447,3 +456,4 @@ float:right
 	font-size:20px;
 	border:2px solid black;
 }
+/* query code*/

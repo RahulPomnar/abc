@@ -73,7 +73,24 @@ button {
   box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
   margin-bottom: 10px;
 }
-
+.signup{
+  padding: 10px 39px 18px 39px;
+  color: #FFF;
+  background-color: #4bc970;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid #3ac162;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+}
+.new{
+  padding-top: 0px;
+  padding-bottom:15px;
+}
 fieldset {
   margin-bottom: 30px;
   border: none;
@@ -88,9 +105,10 @@ label {
   color: #000000;
   display: block;
   margin-bottom: 8px;
-  background-color: #ff9999;
+  background-color: #ffb3b3;
   padding: 12px;
 }
+
 
 label.light {
   font-weight: 300;
@@ -196,7 +214,7 @@ li a:hover:not(.current) {
 		font-family: "helvetica neue", helvetica, arial, sans-serif;
 		font-size: 13px;
 		text-align: center;
-		b
+
 	}
 
 	ul{

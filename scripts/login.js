@@ -1,6 +1,11 @@
 function Signup(){
   window.location ="signupthanks.html";
 }
+function Submit(){
+  alert("Your response is recorded")
+  window.location ="thankscontact.html";
+}
+
 
 var maxTry= 3;
 function validate(){
