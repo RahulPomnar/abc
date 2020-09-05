@@ -457,3 +457,53 @@ float:right
 	border:2px solid black;
 }
 /* query code*/
+.contact-details {
+  font-size: 2rem;
+  text-shadow: 1px 1px 2px #01000e;
+  transition: transform 0.3s ease-out;
+}
+
+.contact-details:hover {
+  transform: translateY(8px);
+  color: rgb(28, 12, 66);
+}
+.btn {
+  color: rgb(70, 66, 75);
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 30%;
+  text-decoration: none;
+}
+
+footer p {
+  background-color: rgb(3, 13, 32);
+  color: #fff;
+  font-size: 1.2em;
+  padding-top: 10px;
+  margin-top: 95px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+}
+footer p span:hover {
+  color: rgb(151, 116, 116);
+}
+
+/* Responsive Design */
+@media (min-width: 320px) and (max-width: 767px) {
+  nav {
+    position: fixed;
+    background-color: #00000000;
+  }
+  nav ul {
+    width: 20%;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-top: 0px;
+    text-align: left;
+    display: grid;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  nav ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }

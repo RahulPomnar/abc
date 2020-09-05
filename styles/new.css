@@ -1,0 +1,38 @@
+body{
+  width: 100%;
+  height: 100%;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  font-size: 13px;
+  text-align: center;
+  background-color: #00FFFF;
+
+}
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#demo{
+  color: red;
+  font-size: 20px;
+}
+button{
+  color:DarkBlue;
+  padding: 10px 50px 50px 50px;
+}
+.button {
+    background-color: #9400D3;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 10% 2px;
+    cursor: pointer;
+	font-family:arial;
+}
